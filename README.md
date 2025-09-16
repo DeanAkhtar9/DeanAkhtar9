@@ -1,4 +1,4 @@
-<img src="image/robloc.jpg">
+<img src="image/Mychild Dean Akhtar Ghani.png">
 <h1 align="center" style="margin:0;">Social Media:</h1>
 <p align="center" style="margin:0;">
   <a href="https://www.linkedin.com/in/mychild-dean-akhtar-ghani-b7aa822a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
