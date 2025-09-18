@@ -17,7 +17,7 @@
         <li>I’m looking to collaborate on Open Source Projects</li><br>
         <li>I’m currently learning ML/AI and ReactJS</li><br>
         <li>Apart from technology, I am studying mathematics and Japanese.</li><br>
-        <li>Feel free to contact me on <a href="[https://www.linkedin.com/in/DavidsDvm/](https://www.instagram.com/ssdean__?igsh=YmN2bmpqZXdycXdi)">Instagram</a></li>
+        <li>Feel free to contact me!!</a></li>
       </ul>
     </td>
     <td style="border: none; padding: 0; text-align: right;">
